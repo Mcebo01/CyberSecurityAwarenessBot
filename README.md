@@ -22,7 +22,6 @@ A console-based Cybersecurity Awareness Assistant built in C# .NET 8 that educat
 3. Build the solution (Ctrl+Shift+B)
 4. Run (F5)
 
-*Make sure greeting.wav is in the output folder.*
 
 ## GitHub Actions CI Status
 ![CI Status](https://github.com/YOURUSERNAME/CybersecurityAwarenessBot/actions/workflows/dotnet.yml/badge.svg)
@@ -31,4 +30,4 @@ A console-based Cybersecurity Awareness Assistant built in C# .NET 8 that educat
 [Watch the video](https://youtu.be/YOUR-UNLISTED-LINK)
 
 ## Screenshots
-([Watch the video](https://youtu.be/YOUR-UNLISTED-LINK)
+[Image](https://youtu.be/YOUR-UNLISTED-LINK)
