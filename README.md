@@ -30,4 +30,4 @@ A console-based Cybersecurity Awareness Assistant built in C# .NET 8 that educat
 [Watch the video](https://youtu.be/YOUR-UNLISTED-LINK)
 
 ## Screenshots
-[Image](https://youtu.be/YOUR-UNLISTED-LINK)
+[commits](commits.png)
