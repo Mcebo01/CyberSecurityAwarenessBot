@@ -1,7 +1,8 @@
 ﻿namespace CybersecurityAwarenessBot
-{
+{   
     public static class ResponseHandler
     {
+        // Method to get the chatbot's response based on user input
         public static string GetResponse(string input, string name)
         {
             if (input.Contains("how are you") || input.Contains("hi") || input.Contains("hello"))
