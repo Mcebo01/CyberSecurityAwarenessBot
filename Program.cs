@@ -23,7 +23,7 @@ namespace CyberSecurityAwarenessBot
             Console.WriteLine("\nThank you for using the Cybersecurity Awareness Bot. Stay safe online!");
             Console.ResetColor();
         }
-
+        //voice greeting method 
         private static void PlayVoiceGreeting()
         {
             try
@@ -34,11 +34,11 @@ namespace CyberSecurityAwarenessBot
                 }
             }
             catch
-            {
+            {   //if there is an issue with the audio file, it will catch the exception and show a warning message
                 UiHelper.ShowWarning("Voice greeting file not found. Continuing with text only.");
             }
         }
-
+        //method to get the user's name, it will prompt the user to enter their name and store it in the userName variable. If the user does not enter a name, it defaults to "Friend".
         private static void GetUserName()
         {
             UiHelper.PrintBorder();
