@@ -18,7 +18,7 @@ namespace CyberSecurityAwarenessBot
 
             GetUserName();
             CybersecurityAwarenessBot.Chatbot.StartConversation();
-
+            //Foreground color is set to dark gray for the closing message, and then reset to default after displaying the message.
             Console.ForegroundColor = ConsoleColor.DarkGray;
             Console.WriteLine("\nThank you for using the Cybersecurity Awareness Bot. Stay safe online!");
             Console.ResetColor();
