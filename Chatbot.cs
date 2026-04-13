@@ -5,7 +5,7 @@ using System.Threading;
 namespace CybersecurityAwarenessBot
 {
     public static class Chatbot
-    {
+    {   // Main method to start the conversation loop
         public static void StartConversation()
         {
             UiHelper.PrintBorder();
