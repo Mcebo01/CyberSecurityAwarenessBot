@@ -24,7 +24,7 @@ A console-based Cybersecurity Awareness Assistant built in C# .NET 8 that educat
 
 
 ## GitHub Actions CI Status
-![CI Status](https://github.com/YOURUSERNAME/CybersecurityAwarenessBot/actions/workflows/dotnet.yml/badge.svg)
+![CI Status](https://github.com/Mcebo01/CybersecurityAwarenessBot/actions/workflows/dotnet.yml/badge.svg)
 
 ## Video Demonstration
 [Watch the video](https://youtu.be/YOUR-UNLISTED-LINK)
