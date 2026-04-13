@@ -16,7 +16,7 @@ namespace CyberSecurityAwarenessBot
             Console.WriteLine("══════════════════════════════════════════════════════════════════════════════");
             Console.ResetColor();
         }
-
+        // Method to display ASCII art from an image file
         public static void DisplayAsciiArt()
         {
             string path = "logo.jpg";
@@ -66,7 +66,7 @@ namespace CyberSecurityAwarenessBot
 
             Console.ResetColor();
         }
-
+        // Fallback ASCII art if the image file is missing
         private static void DisplayFallbackAsciiArt()
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
